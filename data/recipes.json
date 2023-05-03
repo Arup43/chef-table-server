@@ -21,13 +21,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
+        "cooking_method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/bhuna-khichuri.jpg",
-        "rating": 5
+        "rating": 4.5
     },
     {
         "id": 2,
-        "chef_id": 2,
+        "chef_id": 1,
         "name": "Kacchi Biryani",
         "ingredients": [
             "Basmati Rice",
@@ -47,13 +47,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
+        "cooking_method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/kacchi-biryani.jpg",
-        "rating": 5
+        "rating": 4.3
     },
     {
         "id": 3,
-        "chef_id": 3,
+        "chef_id": 1,
         "name": "Morog Polao",
         "ingredients": [
             "Basmati Rice",
@@ -73,13 +73,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
+        "cooking_method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/morog-polao.jpg",
-        "rating": 5
+        "rating": 4.7
     },
     {
         "id": 4,
-        "chef_id": 4,
+        "chef_id": 1,
         "name": "Kala Bhuna",
         "ingredients": [
             "Beef",
@@ -98,13 +98,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
+        "cooking_method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
         "image": "https://static.wixstatic.com/media/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg/v1/fill/w_740,h_438,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg",
-        "rating": 5
+        "rating": 4.6
     },
     {
         "id": 5,
-        "chef_id": 5,
+        "chef_id": 1,
         "name": "Chingri Malai Curry",
         "ingredients": [
             "Prawn",
@@ -123,13 +123,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
+        "cooking_method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/chingri-malai-curry.jpg",
-        "rating": 5
+        "rating": 4.3
     },
     {
         "id": 6,
-        "chef_id": 6,
+        "chef_id": 1,
         "name": "Shorshe Ilish",
         "ingredients": [
             "Hilsa",
@@ -148,13 +148,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
+        "cooking_method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/shorshe-ilish.jpg",
         "rating": 5
     },
     {
         "id": 7,
-        "chef_id": 1,
+        "chef_id": 2,
         "name": "Bhuna Khichuri",
         "ingredients": [
             "Rice",
@@ -174,9 +174,9 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
+        "cooking_method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/bhuna-khichuri.jpg",
-        "rating": 5
+        "rating": 4.4
     },
     {
         "id": 8,
@@ -200,13 +200,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
+        "cooking_method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/kacchi-biryani.jpg",
-        "rating": 5
+        "rating": 4.3
     },
     {
         "id": 9,
-        "chef_id": 3,
+        "chef_id": 2,
         "name": "Morog Polao",
         "ingredients": [
             "Basmati Rice",
@@ -226,13 +226,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
+        "cooking_method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/morog-polao.jpg",
-        "rating": 5
+        "rating": 4.6
     },
     {
         "id": 10,
-        "chef_id": 4,
+        "chef_id": 2,
         "name": "Kala Bhuna",
         "ingredients": [
             "Beef",
@@ -251,13 +251,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
+        "cooking_method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
         "image": "https://static.wixstatic.com/media/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg/v1/fill/w_740,h_438,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg",
-        "rating": 5
+        "rating": 4.8
     },
     {
         "id": 11,
-        "chef_id": 5,
+        "chef_id": 2,
         "name": "Chingri Malai Curry",
         "ingredients": [
             "Prawn",
@@ -276,13 +276,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
+        "cooking_method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/chingri-malai-curry.jpg",
-        "rating": 5
+        "rating": 4.7
     },
     {
         "id": 12,
-        "chef_id": 6,
+        "chef_id": 2,
         "name": "Shorshe Ilish",
         "ingredients": [
             "Hilsa",
@@ -301,13 +301,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
+        "cooking_method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/shorshe-ilish.jpg",
-        "rating": 5
+        "rating": 4.3
     },
     {
         "id": 13,
-        "chef_id": 1,
+        "chef_id": 3,
         "name": "Bhuna Khichuri",
         "ingredients": [
             "Rice",
@@ -327,13 +327,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
+        "cooking_method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/bhuna-khichuri.jpg",
-        "rating": 5
+        "rating": 4.8
     },
     {
         "id": 14,
-        "chef_id": 2,
+        "chef_id": 3,
         "name": "Kacchi Biryani",
         "ingredients": [
             "Basmati Rice",
@@ -353,9 +353,9 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
+        "cooking_method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/kacchi-biryani.jpg",
-        "rating": 5
+        "rating": 4.6
     },
     {
         "id": 15,
@@ -379,13 +379,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
+        "cooking_method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/morog-polao.jpg",
-        "rating": 5
+        "rating": 4.2
     },
     {
         "id": 16,
-        "chef_id": 4,
+        "chef_id": 3,
         "name": "Kala Bhuna",
         "ingredients": [
             "Beef",
@@ -404,13 +404,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
+        "cooking_method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
         "image": "https://static.wixstatic.com/media/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg/v1/fill/w_740,h_438,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg",
-        "rating": 5
+        "rating": 4.5
     },
     {
         "id": 17,
-        "chef_id": 5,
+        "chef_id": 3,
         "name": "Chingri Malai Curry",
         "ingredients": [
             "Prawn",
@@ -429,13 +429,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
+        "cooking_method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/chingri-malai-curry.jpg",
-        "rating": 5
+        "rating": 4.6
     },
     {
         "id": 18,
-        "chef_id": 6,
+        "chef_id": 3,
         "name": "Shorshe Ilish",
         "ingredients": [
             "Hilsa",
@@ -454,13 +454,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
+        "cooking_method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/shorshe-ilish.jpg",
         "rating": 5
     },
     {
         "id": 19,
-        "chef_id": 1,
+        "chef_id": 4,
         "name": "Bhuna Khichuri",
         "ingredients": [
             "Rice",
@@ -480,13 +480,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
+        "cooking_method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/bhuna-khichuri.jpg",
-        "rating": 5
+        "rating": 4.1
     },
     {
         "id": 20,
-        "chef_id": 2,
+        "chef_id": 4,
         "name": "Kacchi Biryani",
         "ingredients": [
             "Basmati Rice",
@@ -506,13 +506,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
+        "cooking_method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/kacchi-biryani.jpg",
-        "rating": 5
+        "rating": 4.4
     },
     {
         "id": 21,
-        "chef_id": 3,
+        "chef_id": 4,
         "name": "Morog Polao",
         "ingredients": [
             "Basmati Rice",
@@ -532,7 +532,7 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
+        "cooking_method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/morog-polao.jpg",
         "rating": 5
     },
@@ -557,13 +557,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
+        "cooking_method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
         "image": "https://static.wixstatic.com/media/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg/v1/fill/w_740,h_438,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg",
-        "rating": 5
+        "rating": 4.6
     },
     {
         "id": 23,
-        "chef_id": 5,
+        "chef_id": 4,
         "name": "Chingri Malai Curry",
         "ingredients": [
             "Prawn",
@@ -582,13 +582,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
+        "cooking_method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/chingri-malai-curry.jpg",
-        "rating": 5
+        "rating": 4.5
     },
     {
         "id": 24,
-        "chef_id": 6,
+        "chef_id": 4,
         "name": "Shorshe Ilish",
         "ingredients": [
             "Hilsa",
@@ -607,13 +607,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
+        "cooking_method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/shorshe-ilish.jpg",
-        "rating": 5
+        "rating": 4.5
     },
     {
         "id": 25,
-        "chef_id": 1,
+        "chef_id": 5,
         "name": "Bhuna Khichuri",
         "ingredients": [
             "Rice",
@@ -633,13 +633,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
+        "cooking_method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/bhuna-khichuri.jpg",
         "rating": 5
     },
     {
         "id": 26,
-        "chef_id": 2,
+        "chef_id": 5,
         "name": "Kacchi Biryani",
         "ingredients": [
             "Basmati Rice",
@@ -659,13 +659,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
+        "cooking_method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/kacchi-biryani.jpg",
-        "rating": 5
+        "rating": 4.2
     },
     {
         "id": 27,
-        "chef_id": 3,
+        "chef_id": 5,
         "name": "Morog Polao",
         "ingredients": [
             "Basmati Rice",
@@ -685,13 +685,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
+        "cooking_method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/morog-polao.jpg",
-        "rating": 5
+        "rating": 4.5
     },
     {
         "id": 28,
-        "chef_id": 4,
+        "chef_id": 5,
         "name": "Kala Bhuna",
         "ingredients": [
             "Beef",
@@ -710,9 +710,9 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
+        "cooking_method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
         "image": "https://static.wixstatic.com/media/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg/v1/fill/w_740,h_438,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg",
-        "rating": 5
+        "rating": 4.7
     },
     {
         "id": 29,
@@ -735,13 +735,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
+        "cooking_method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/chingri-malai-curry.jpg",
-        "rating": 5
+        "rating": 4.6
     },
     {
         "id": 30,
-        "chef_id": 6,
+        "chef_id": 5,
         "name": "Shorshe Ilish",
         "ingredients": [
             "Hilsa",
@@ -760,13 +760,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
+        "cooking_method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/shorshe-ilish.jpg",
-        "rating": 5
+        "rating": 4.5
     },
     {
         "id": 31,
-        "chef_id": 1,
+        "chef_id": 6,
         "name": "Bhuna Khichuri",
         "ingredients": [
             "Rice",
@@ -786,13 +786,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
+        "cooking_method": "To prepare the bhuna khichuri, first dry roast the sona moong dal (Split yellow lentils) for some time in medium flame and then soak it in boiling water for an hour. Drain the water and keep the sona moong dal aside. It will almost be double in size. This step helps the dal to get cooked quickly.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/bhuna-khichuri.jpg",
-        "rating": 5
+        "rating": 4.9
     },
     {
         "id": 32,
-        "chef_id": 2,
+        "chef_id": 6,
         "name": "Kacchi Biryani",
         "ingredients": [
             "Basmati Rice",
@@ -812,13 +812,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
+        "cooking_method": "Put the boiling water in a saucepan, add the washed rice, boil for 5 minutes and drain. Layer the chicken mixture with the rice starting with the rice then the chicken mixture and repeat this twice. Garnish with cumin seeds, and ginger. Lower the heat and simmer for a further 10 minutes.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/kacchi-biryani.jpg",
         "rating": 5
     },
     {
         "id": 33,
-        "chef_id": 3,
+        "chef_id": 6,
         "name": "Morog Polao",
         "ingredients": [
             "Basmati Rice",
@@ -838,13 +838,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
+        "cooking_method": "Heat the oil in a large saucepan over medium heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic, ginger, chilli, turmeric, cumin, coriander, cinnamon, cardamom, cloves and bay leaf. Cook, stirring, for 1 minute or until aromatic.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/morog-polao.jpg",
-        "rating": 5
+        "rating": 4.3
     },
     {
         "id": 34,
-        "chef_id": 4,
+        "chef_id": 6,
         "name": "Kala Bhuna",
         "ingredients": [
             "Beef",
@@ -863,13 +863,13 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
+        "cooking_method": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up. ",
         "image": "https://static.wixstatic.com/media/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg/v1/fill/w_740,h_438,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg",
-        "rating": 5
+        "rating": 4.1
     },
     {
         "id": 35,
-        "chef_id": 5,
+        "chef_id": 6,
         "name": "Chingri Malai Curry",
         "ingredients": [
             "Prawn",
@@ -888,9 +888,9 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
+        "cooking_method": "Shell and devein the prawns, leaving the flavourful head intact. You may remove the stomach of the prawn, located near its head. We are leaving the shells on, but you may peel them off if you like. Heat vegetable oil in a pan. Once hot, lower the prawns one by one, and fry them in batches for about 45 seconds on each side. The longer you cook prawns the tougher they’ll become, so remove them from the heat immediately and set aside. Add the second-press (thin) coconut milk and simmer for about 2 minutes before adding the first-press (thick) coconut milk. Once it comes to a boil, add the fried prawns.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/chingri-malai-curry.jpg",
-        "rating": 5
+        "rating": 4.5
     },
     {
         "id": 36,
@@ -913,8 +913,8 @@
             "Salt",
             "Water"
         ],
-        "cooking-method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
+        "cooking_method": "Heat the oil in a pan and fry the fish pieces till golden brown. Keep aside. In the same oil, add the nigella seeds and fry for a few seconds. Add the onion paste and fry till golden brown. Add the ginger paste, garlic paste, green chilli paste and turmeric powder and fry for 2-3 minutes. Add the mustard paste and salt and fry for 2-3 minutes. Add 1 cup of water and bring to a boil. Add the fried fish pieces and cook for 5-6 minutes. Serve hot with steamed rice.",
         "image": "https://www.lacademie.com/wp-content/uploads/2022/01/shorshe-ilish.jpg",
-        "rating": 5
+        "rating": 4.6
     }
 ]

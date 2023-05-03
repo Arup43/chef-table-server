@@ -13,12 +13,12 @@ app.get('/chefs', (req, res) => {
 })
 
 app.get('/chefs/:id', (req, res) => {
-    const chef = chefs.find(chef => chef.id === req.params.id)
+    const chef = chefs.find(chef => chef.id == req.params.id)
     res.send(chef);
 })
 
 app.get('/recipes/:chef_id', (req, res) => {
-    const chefRecipes = recipes.filter(recipe => recipe.chef_id === parseInt(req.params.chef_id))
+    const chefRecipes = recipes.filter(recipe => parseInt(recipe.chef_id) === parseInt(req.params.chef_id))
     res.send(chefRecipes);
 })
 
